@@ -1,0 +1,34 @@
+Comandos Básicos do Git:
+
+*Windows
+-cd
+-dir
+-mkdir
+-del/rmdir 
+
+*Unix-Linux
+-cd
+-ls
+-mkdir
+-rm-rf
+
+No windows comando dir serve para listaras pastas e repositórios e no Linux o comando é ls.
+
+O comando cd, é usado para navegar entre as pastas.
+
+O comando cd .. , serve para voltar ao nível anterior.
+
+O comando cls, serve para limpar a tela e no linux é o clear.
+
+O TAB, tem a função de completar o texto.
+
+Para a criação de uma pasta o comando é mkdir.
+
+O comando echo, serve para printar o que foi digítado.
+
+O comando > é um redirecionador de fluxo.
+
+O comando del, serve para deletar arquivos que estão dentro da pasta.
+
+O comando rmdir serve para remover ou apagar repositórios e todos os arquivos que estão dentro e deve ser usado com flags rmdir /S/Q. 
+
